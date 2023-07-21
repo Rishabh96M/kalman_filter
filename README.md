@@ -1,9 +1,9 @@
 Verified with gcc 9.4.0 on ubuntu 20.04.1 and packages used are Eigen3 and C++ STL
 
 # Kalman Filter
-A C++ package for Kalman Filter class and helper methods to read and format input data. 
-Test code provided for estimating signal by removing noise and for sensor fusion to predicit 
-positon based on measurements from 2 independent sensors with different spamling rates. 
+A C++ package for Kalman Filter class and helper methods for sensor fusion. 
+Test code provided for "estimating signal by removing noise" and for "sensor fusion to predicit 
+positon based on measurements from 2 independent sensors with different sampling rates". 
 
 ## Steps to build the package and run the test code
 To Build the package:
